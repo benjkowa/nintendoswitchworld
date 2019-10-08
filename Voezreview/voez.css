@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: red;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+header {
+	padding: 50px;
+	text-align: center;
+	background-image: url(images.jpg);
+	color: red;
+	font-size: 30px;
+	background-repeat:no-repeat;
+	
+}
+.title h1 {
+ color:Red; 
+ font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif	
+}
+.title p {
+  color: red;
+  align-text: center;
+}
+
+.artreview p {
+
+  float: left;
+  width: 75%;
+}
+
